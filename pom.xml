@@ -20,6 +20,16 @@
             <artifactId>mongodb-driver-sync</artifactId>
             <version>4.11.0</version> <!-- En güncel sürümü kontrol et -->
         </dependency>
+
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.33</version>
+        </dependency>
+
     </dependencies>
+
+
 
 </project>
